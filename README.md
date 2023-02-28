@@ -17,3 +17,9 @@ copies or substantial portions of the Software.
 <div align="center">
     <img src="https://raw.githubusercontent.com/JoshuaDRose/Bitwave/main/assets/github-header-image.png" alt="Biwave Readme Banner">
 </div>
+
+<h2>About</h2>
+Bitwave is a personal project of mine that was developed initially as a result of not being able to find any decent
+ssh interfaces that worked with Arch linux; requirements for me were quite versatile and I needed an application
+that could fit as many compatabilities into it as possible. This is that application. Bitwave removes the hassle 
+of manually setting up a fileserver completely and offers a smooth, streamlined installation and usage process.
