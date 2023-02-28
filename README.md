@@ -15,6 +15,5 @@ copies or substantial portions of the Software.
 -->
 
 <div align="center">
-    <h1>Bitwave</h1>
-    <quote>🌊 An SSH network terminal GUI</quote>
+    <img src="https://raw.githubusercontent.com/JoshuaDRose/Bitwave/main/assets/github-header-image.png" alt="Biwave Readme Banner">
 </div>
