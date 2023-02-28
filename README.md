@@ -11,7 +11,7 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the attatched conditions.
 -->
 
-<p align="center">
+<div align="center">
     <h1>Bitwave</h1>
     <quote>🌊 An SSH network terminal GUI</quote>
-</p>
+</div>
