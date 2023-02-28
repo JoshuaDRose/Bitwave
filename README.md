@@ -16,11 +16,11 @@ copies or substantial portions of the Software.
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/JoshuaDRose/Bitwave/main/assets/github-header-image.png" alt="Biwave Readme Banner">
+    <br><br>
+    <img src="https://img.shields.io/github/license/JoshuaDRose/Bitwave?color=seagreen&style=for-the-badge" alt="license">
+
 </div>
-
-<img src="https://img.shields.io/github/license/JoshuaDRose/Bitwave?color=lavender&style=for-the-badge" alt="license">
-
-<h2>About</h2>
+<h1>About</h1>
 
 Bitwave is a personal project of mine that was developed initially as a result of not being able to find any decent
 ssh interfaces that worked with Arch linux; requirements for me were quite versatile and I needed an application
