@@ -26,5 +26,5 @@ of manually setting up a fileserver completely and offers a smooth, streamlined 
 
 <h2>Changelog</h2>
 <ul>
-    <li><b><a href="https://github.com/JoshuaDRose/Bitwave/commit/b35fba496e2764900adcc28837507209708bd2ea">b35fba4</a></b> - Add initial files</li>
+    <li>https://github.com/JoshuaDRose/Bitwave/commit/b35fba496e2764900adcc28837507209708bd2ea - Add initial files</li>
 </ul>
