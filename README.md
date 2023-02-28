@@ -23,8 +23,3 @@ Bitwave is a personal project of mine that was developed initially as a result o
 ssh interfaces that worked with Arch linux; requirements for me were quite versatile and I needed an application
 that could fit as many compatabilities into it as possible. This is that application. Bitwave removes the hassle 
 of manually setting up a fileserver completely and offers a smooth, streamlined installation and usage process.
-
-<h2>Changelog</h2>
-<ul>
-    <li>https://github.com/JoshuaDRose/Bitwave/commit/b35fba496e2764900adcc28837507209708bd2ea - Add initial files</li>
-</ul>
